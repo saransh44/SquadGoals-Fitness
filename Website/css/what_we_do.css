@@ -1,0 +1,33 @@
+#what_we_do {
+    background-color: #0092f1;
+    margin: 0;
+}
+
+#what_we_do h1 {
+    color: white;
+    margin: 0;
+    text-align: center;
+    padding: 20px 0;
+}
+
+#what_we_do table {
+    align-content: center;
+    width: 100%;
+}
+
+#what_we_do th {
+    width: 50%;
+    padding-top: 10px;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+
+#what_we_do td {
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    padding: 2% 5%;;
+}
+
+

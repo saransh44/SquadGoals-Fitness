@@ -1,0 +1,35 @@
+#overview {
+    background-image: url("../img/overview_bg.jpg"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 720px;
+}
+
+
+.overview_navbar {
+    list-style: none;
+    float: right;
+    display: inline;
+    padding-right: 20px;
+}
+
+.overview_navbar li {
+    display: inline-block;      
+    margin: 10px 10px;
+    padding: 10px;
+    color: white;
+    border: 1px solid white;
+}
+
+.logo_name {
+    padding: 15% 25%;
+}
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+
+
+

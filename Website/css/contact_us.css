@@ -1,0 +1,26 @@
+#contact_us {
+    background-color: #DDC106;
+    margin: 0;
+}
+
+#contact_us form {
+    padding: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+    color: white;
+}
+
+#contact_us h1 {
+    color: white;
+    margin: 0;
+    text-align: center;
+    padding: 20px 0;
+}
+
+#contact_us p {
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
